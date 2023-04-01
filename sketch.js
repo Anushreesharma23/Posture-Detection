@@ -47,10 +47,5 @@ function draw() {
 
         image(specs,singlePose.nose.x-35,singlePose.nose.y-50,80,80);
         image(smoke,singlePose.nose.x-35,singlePose.nose.y+10,40,40);
-
-
     }
-
-
-
 }
